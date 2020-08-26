@@ -1,0 +1,14 @@
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\user_Login.deps.json
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\user_Login.runtimeconfig.json
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\user_Login.runtimeconfig.dev.json
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\user_Login.dll
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\user_Login.pdb
+C:\Users\Chamila\source\repos\user_Login\user_Login\obj\Debug\netcoreapp2.0\user_Login.AssemblyInfoInputs.cache
+C:\Users\Chamila\source\repos\user_Login\user_Login\obj\Debug\netcoreapp2.0\user_Login.AssemblyInfo.cs
+C:\Users\Chamila\source\repos\user_Login\user_Login\obj\Debug\netcoreapp2.0\user_Login.dll
+C:\Users\Chamila\source\repos\user_Login\user_Login\obj\Debug\netcoreapp2.0\user_Login.pdb
+C:\Users\Chamila\source\repos\user_Login\user_Login\bin\Debug\netcoreapp2.0\web.config
+C:\Users\Chamila\source\repos\user_Login\user_Login\obj\Debug\netcoreapp2.0\user_Login.csprojAssemblyReference.cache
